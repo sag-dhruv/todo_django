@@ -33,8 +33,8 @@ This is a simple todo application built using Django, allowing users to manage t
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd django-todo-app
+git clone https://github.com/sag-dhruv/todo_django.git
+cd todo_django
 ```
 
 2. Create a virtual environment (optional but recommended):
