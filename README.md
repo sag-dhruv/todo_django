@@ -85,9 +85,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Replace `<repository-url>` with the actual URL of your repository.
-
-Feel free to customize and add more specific details about your Django todo app as needed.
